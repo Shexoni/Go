@@ -1,1 +1,1 @@
-# Exploring Golang
+# Exploring Golang Syntax
