@@ -1,0 +1,10 @@
+go 1.21.3
+
+use (
+	./Tim
+	./vezbanje
+	./HotelRezervation
+	./MongoDB
+	./Server
+	./CRUD
+)
